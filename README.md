@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**rudyanibrahim-rgb/rudyanibrahim-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmad Rudyan Ibrahim 👋
+**Data Analyst | Financial Data Enthusiast | Insight Driven | Economic based decision**
 
-Here are some ideas to get you started:
+I bridge the gap between complex data and strategic decision-making. With a background blending economic principles and modern data analytics, I specialize in transforming raw data into interactive dashboards and actionable business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skillsets & Tools
+* **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, BigQuery, SQLite)
+* **Visualization:** Looker Studio, Power BI, Microsoft Excel
+* **Domain skills:** Econometric Modeling, Statistical Analysis, Root-Cause Analysis, PDCA
+
+---
+
+### 📫 Connect with Me
+* 💼 [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/ahmad-rudyan-ibrahim))
+* 📧 [Email](rudyanibrahim@gmail.com)
+* 📞 [Whatsapp](https://wa.me/6285335274219)
+
