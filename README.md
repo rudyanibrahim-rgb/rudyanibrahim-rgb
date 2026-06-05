@@ -1,8 +1,12 @@
 
+
+![rudyanibrahim-rgb](img/github-header-banner.png)
 # Hi, I'm Ahmad Rudyan Ibrahim 👋
 **Data Analyst | Financial Data Enthusiast | Insight Driven | Economic based decision**
 
 I bridge the gap between complex data and strategic decision-making. With a background blending economic principles and modern data analytics, I specialize in transforming raw data into interactive dashboards and actionable business intelligence.
+
+- 
 
 ### 🛠️ Skillsets & Tools
 * **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, BigQuery, SQLite)
