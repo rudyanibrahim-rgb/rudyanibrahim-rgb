@@ -6,8 +6,18 @@
 assss
 
 ### 🛠️ Skillsets & Tools
-* **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, BigQuery, SQLite)
-* **Visualization:** Looker Studio, Power BI, Microsoft Excel
+* **Languages:** 
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+* **Visualization:** 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+Looker Studio, Power BI, Microsoft Excel
 * **Domain skills:** Econometric Modeling, Statistical Analysis, Root-Cause Analysis, PDCA
 
 ---
