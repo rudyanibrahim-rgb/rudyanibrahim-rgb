@@ -3,7 +3,7 @@
 ![rudyanibrahim-rgb](image.png)
 
 **I bridge the gap between complex data and strategic decision-making. With a background blending economic principles and modern data analytics, I specialize in transforming raw data into interactive dashboards and actionable business intelligence.**
-
+assss
 
 ### 🛠️ Skillsets & Tools
 * **Languages:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, BigQuery, SQLite)
