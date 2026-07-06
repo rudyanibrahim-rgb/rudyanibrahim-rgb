@@ -1,6 +1,6 @@
 
 
-![rudyanibrahim-rgb](image.png)
+![rudyanibrahim-rgb](img/image.png.png)
 
 **I bridge the gap between complex data and strategic decision-making. With a background blending economic principles and modern data analytics, I specialize in transforming raw data into interactive dashboards and actionable business intelligence.**
 
